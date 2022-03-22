@@ -3,7 +3,7 @@ Rencana Konten
   *Laravel
   *Code Igniter
 - Javascript
-  *Vuew
+  *Vue
   *React
 - HTML
 - Python
