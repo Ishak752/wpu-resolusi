@@ -3,8 +3,12 @@ Rencana Konten
   *Laravel
   *Code Igniter
 - Javascript
-  *Vue
+  *Angular
   *React
+  *Vue
+- Kotlin
+  *JetCompose
+- Pascal
 - HTML
 - Python
 - Java
