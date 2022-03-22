@@ -5,8 +5,11 @@ Rencana Konten
 - Javascript
   *Angular
   *React
+  *Vue
 - Kotlin
   *JetCompose
 - Pascal
 - HTML
+- Python
+- Java
 - CSS
