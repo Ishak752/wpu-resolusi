@@ -3,5 +3,8 @@ Rencana Konten
   *Laravel
   *Code Igniter
 - Javascript
+  *Vuew
+  *React
 - HTML
+- Python
 - CSS
