@@ -3,5 +3,7 @@ Rencana Konten
   *Laravel
   *Code Igniter
 - Javascript
+- Kotlin
+  *JetCompose
 - HTML
 - CSS
