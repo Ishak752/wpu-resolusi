@@ -7,4 +7,5 @@ Rencana Konten
   *React
 - HTML
 - Python
+- Java
 - CSS
